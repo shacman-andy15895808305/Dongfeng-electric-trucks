@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dongfeng-electric-trucks.andy15895808305.chatgpt.site/sitemap.xml

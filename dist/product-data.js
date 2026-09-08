@@ -5,7 +5,11 @@ window.DF_CATEGORIES={
  ['TE9L','6×4','49 t GCW','400 / 497 / 600 kWh','350 / 520 kW','4AMT','3,900+1,350 mm','DF601S / DF162E','12R22.5-18PR','EBS+ESC, LDWS+FCWS','Dual-gun 600A'],
  ['TE9B','6×4','65 t GCW','400 / 497 / 600 kWh','350 / 520 kW','4AMT','3,900+1,350 mm','DF601S / DF440','12R22.5-18PR','EBS+ESC, LDWS+FCWS','Dual-gun 600A'],
  ['TE8M','6×4','80 t GCW','466 / 497 / 600 kWh','400 / 550 kW','4AMT','3,800+1,350 mm','DF701S / DF485','12R22.5-18PR','EBS+ESC, LDWS+FCWS','Dual-gun 600A'],
- ['TE8P','6×4','120 t GCW','400 / 600 kWh','400 / 550 kW','4AMT','3,800+1,350 mm','DF701S / DF300H','12.00R20-18PR','EBS+ESC, LDWS+FCWS','Dual-gun 600A'] ]},
+ ['TE8P','6×4','120 t GCW','400 / 600 kWh','400 / 550 kW','4AMT','3,800+1,350 mm','DF701S / DF300H','12.00R20-18PR','EBS+ESC, LDWS+FCWS','Dual-gun 600A'],
+ ['TEAY RHD','6×4','Heavy-duty class','400 kWh','Configuration matched','Electric drive','Catalogue configuration','Series specification','Market matched','Configuration dependent','Right-hand drive'],
+ ['TE9Y RHD','6×4','Extra heavy-duty class','600 kWh','Configuration matched','Electric drive','Catalogue configuration','Series specification','Market matched','Configuration dependent','Right-hand drive'],
+ ['TE89 / TE86','6×4','Standard / mixed-duty','400 / 600 kWh','Configuration matched','Electric drive','Catalogue configuration','Series specification','Market matched','Configuration dependent','Charging / swap portfolio'],
+ ['TE49','4×2','Standard-duty class','400 / 513 kWh','Configuration matched','Electric drive','Catalogue configuration','Series specification','Market matched','Configuration dependent','Charging configuration'] ]},
  cargo:{title:'Electric Cargo Trucks',kicker:'URBAN · REGIONAL · HIGH-CAPACITY',intro:'KT and KTH chassis support box, refrigerated, flatbed and specialist bodies—from 18-tonne urban distribution to 31-tonne 8×4 platforms.',hero:'assets/catalog/cargo-kt5.jpg',models:[
  ['KT5M / KT5J','4×2','18 t GVW','262 / 310 kWh','150 / 270 kW','4-speed e-axle','7,150 mm','DF451S / STEA39000Z','275/80R22.5-18PR','EBS','GB · body 7.7–9.8 m'],
  ['KT5M / KT5J Short WB','4×2','18 t GVW','262 / 310 kWh','150 / 270 kW','4-speed e-axle','5,000 mm','DF451S / STEA39000Z','275/80R22.5-18PR','EBS','GB · body 6.8–7.7 m'],

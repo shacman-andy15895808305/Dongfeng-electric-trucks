@@ -4,7 +4,7 @@ const articles = [
     category: 'model-guide',
     label: 'MODEL GUIDE',
     date: 'September 7, 2026',
-    time: '8 min read',
+    time: '10 min read',
     title: 'How to Select a Dongfeng Electric Tractor for Port and Regional Haulage',
     excerpt: 'Compare GCW, battery capacity, charging interface and route requirements across the TE46, TE8 and TE9 platforms.',
     image: 'assets/tractor.jpg'
@@ -14,7 +14,7 @@ const articles = [
     category: 'application',
     label: 'APPLICATION',
     date: 'September 7, 2026',
-    time: '7 min read',
+    time: '10 min read',
     title: 'Electric Dump Trucks for Mining and Construction: What Buyers Should Check',
     excerpt: 'A practical checklist covering grade, payload, frame strength, battery, charging and right-hand-drive options.',
     image: 'assets/dumper.jpg'
@@ -24,7 +24,7 @@ const articles = [
     category: 'tco',
     label: 'TCO & CHARGING',
     date: 'September 7, 2026',
-    time: '6 min read',
+    time: '9 min read',
     title: 'How Duty Cycle Affects Electric Truck Range and Total Cost',
     excerpt: 'Why daily mileage, payload, average speed, road grade and charging windows matter more than one headline range figure.',
     image: 'assets/cargo.jpg'

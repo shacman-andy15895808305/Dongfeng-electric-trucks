@@ -14,9 +14,9 @@ const articles = [
     category: 'model-guide',
     label: 'MODEL GUIDE',
     date: 'September 14, 2026',
-    time: '9 min read',
+    time: '10 min read',
     title: 'DFH4250DBEV11-TE8P 6x4 Electric Tractor: Configuration Guide for Standard-Load Road Transport',
-    excerpt: 'A practical buyer guide to the TE8P 6x4 electric tractor for short and medium-distance standard-load transport, covering safety, driveline, comfort and route fit.',
+    excerpt: 'A practical buyer guide to the TE8P 6x4 electric tractor with 600 kWh CATL battery, 600 A dual-gun fast charging, 550 kW peak motor power and road-transport chassis configuration.',
     image: 'assets/articles/dfh4250-te8p-6x4-electric-tractor-side.jpg'
   },  {
     id: 'electric-dump-truck-guide',

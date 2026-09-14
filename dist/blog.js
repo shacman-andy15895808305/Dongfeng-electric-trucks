@@ -10,6 +10,15 @@ const articles = [
     image: 'assets/tractor.jpg'
   },
   {
+    id: 'dfh4250-te8p-6x4-electric-tractor',
+    category: 'model-guide',
+    label: 'MODEL GUIDE',
+    date: 'September 14, 2026',
+    time: '9 min read',
+    title: 'DFH4250DBEV11-TE8P 6x4 Electric Tractor: Configuration Guide for Standard-Load Road Transport',
+    excerpt: 'A practical buyer guide to the TE8P 6x4 electric tractor for short and medium-distance standard-load transport, covering safety, driveline, comfort and route fit.',
+    image: 'assets/articles/dfh4250-te8p-6x4-electric-tractor-side.jpg'
+  },  {
     id: 'electric-dump-truck-guide',
     category: 'application',
     label: 'APPLICATION',

@@ -7,3 +7,4 @@ node_modules/
 .env
 .env.*
 WORK_WRITE_TEST.txt
+reports/gsc/

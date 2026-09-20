@@ -5,7 +5,9 @@
   "description": "Local source project for the Dongfeng Electric Trucks website.",
   "scripts": {
     "start": "node server.js",
-    "dev": "node server.js"
+    "dev": "node server.js",
+    "gsc:check": "node tools/gsc-check.mjs",
+    "gsc:report": "node tools/gsc-report.mjs"
   },
   "engines": {
     "node": ">=18"

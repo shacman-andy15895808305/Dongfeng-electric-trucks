@@ -9,10 +9,11 @@
 
 ## 固定执行节奏
 
-- 每周一 09:00：读取 GSC，检查排名、点击、展示、CTR、Sitemap 和页面收录；执行证据明确的技术优化。
-- 每周二 10:30：发布一篇车型、配置或技术文章。
-- 每周五 10:30：发布一篇应用、采购、充电或 TCO 文章。
-- 每次只发布一篇高质量文章。资料不足时停止发布并明确列出缺少的配置或图片，不用猜测填充。
+- 第一阶段（前 30 篇）：每天 09:00 发布一篇高质量文章，约 30 天完成。
+- 每周一发布前先读取 GSC，检查排名、点击、展示、CTR、Sitemap 和页面收录，并执行证据明确的技术优化。
+- 第一阶段完成后：自动降为每周一、周三、周五各发布一篇，并由 GSC 数据调整选题。
+- 每次最多发布一篇。资料不足时停止该主题并明确列出缺少的配置或图片，不用猜测填充。
+- 速度不能降低质量：不批量复制模板段落，不制造多个搜索意图相同的页面，不发布无法核验的车型参数。
 
 ## 发布前基础优化
 
@@ -81,6 +82,138 @@
 - 英文标题方向：CATL LFP Batteries in Heavy Electric Trucks: Capacity, Thermal Management and Fleet Planning
 - 主要关键词：CATL LFP electric truck battery, electric truck thermal management
 - 内容重点：根据可靠来源说明 LFP、电池容量、温度、SOC 管理和车队运营，不填写无法证明的循环寿命或质保承诺。
+
+### 9. TE46 4x2 港口短倒牵引车
+
+- [ ] 状态：待发布
+- 英文标题方向：Dongfeng TE46 4x2 Electric Tractor for Port and Short-Haul Operations
+- 主要关键词：TE46 electric tractor, port electric tractor, 4x2 electric truck
+
+### 10. TE8L / TE8K 6x4 区域运输
+
+- [ ] 状态：待发布
+- 英文标题方向：Dongfeng TE8L and TE8K 6x4 Electric Tractors for Regional Haulage
+- 主要关键词：TE8L electric tractor, TE8K electric truck, 6x4 electric tractor
+
+### 11. TE9L / TE9B 重载区域运输
+
+- [ ] 状态：待发布
+- 英文标题方向：Dongfeng TE9L and TE9B Electric Tractors: Battery and Duty-Cycle Selection
+- 主要关键词：TE9L electric tractor, TE9B electric truck
+
+### 12. KTA1 8x4 城市建设自卸车
+
+- [ ] 状态：待发布
+- 英文标题方向：Dongfeng KTA1 8x4 Electric Dump Truck for Urban Construction
+- 主要关键词：KTA1 electric dump truck, 8x4 electric tipper
+
+### 13. TZ3Z 55 t 工程自卸车
+
+- [ ] 状态：待发布
+- 英文标题方向：Dongfeng TZ3Z Electric Dump Truck for Quarry and Construction Haulage
+- 主要关键词：TZ3Z electric dump truck, electric quarry truck
+
+### 14. TZ5E 6x4 中型工程自卸车
+
+- [ ] 状态：待发布
+- 英文标题方向：Dongfeng TZ5E 6x4 Electric Dump Truck: Suitable Routes and Site Conditions
+- 主要关键词：TZ5E electric dump truck, 6x4 electric tipper
+
+### 15. TZ4Y / TZ5Y 右舵自卸车
+
+- [ ] 状态：待发布
+- 英文标题方向：Dongfeng TZ4Y and TZ5Y Right-Hand-Drive Electric Dump Trucks
+- 主要关键词：RHD electric dump truck, TZ5Y electric truck
+
+### 16. KTH1 / KTH2 / KTH3 重型载货底盘
+
+- [ ] 状态：待发布
+- 英文标题方向：Dongfeng KTH Electric Cargo Truck Guide: KTH1, KTH2 and KTH3
+- 主要关键词：KTH electric cargo truck, 8x4 electric cargo chassis
+
+### 17. KT3F / KT7A 电动洒水和抑尘车
+
+- [ ] 状态：待发布
+- 英文标题方向：Dongfeng Electric Water and Dust-Suppression Trucks for Municipal Fleets
+- 主要关键词：electric water truck, electric sprinkler truck
+
+### 18. KT1D 电动洗扫车
+
+- [ ] 状态：待发布
+- 英文标题方向：Dongfeng KT1D Electric Sweeper Truck for Urban Road Cleaning
+- 主要关键词：electric sweeper truck, KT1D
+
+### 19. KT3E / TZ2E 电动垃圾车
+
+- [ ] 状态：待发布
+- 英文标题方向：Dongfeng Electric Refuse Trucks for Collection and Transfer Operations
+- 主要关键词：electric garbage truck, electric refuse truck
+
+### 20. TZ8J / KT9X 电动搅拌车
+
+- [ ] 状态：待发布
+- 英文标题方向：Dongfeng Electric Concrete Mixer Trucks: TZ8J and KT9X Selection Guide
+- 主要关键词：electric concrete mixer truck, KT9X, TZ8J
+
+### 21. 港口短倒电动化工况规划
+
+- [ ] 状态：待发布
+- 英文标题方向：How to Plan an Electric Truck Duty Cycle for Port Container Haulage
+- 主要关键词：port electric truck, electric terminal tractor duty cycle
+
+### 22. 矿区电动卡车能源规划
+
+- [ ] 状态：待发布
+- 英文标题方向：Mine-Site Electric Truck Energy Planning: Grade, Payload and Charging Windows
+- 主要关键词：electric mining truck energy consumption, mine charging
+
+### 23. 冷链车辅助用电和续航规划
+
+- [ ] 状态：待发布
+- 英文标题方向：Electric Refrigerated Truck Range Planning: Traction and Auxiliary Loads
+- 主要关键词：electric refrigerated truck, reefer electric truck range
+
+### 24. 上装和电动 PTO 选型
+
+- [ ] 状态：待发布
+- 英文标题方向：Electric Truck Body Upfit and PTO Planning for Export Fleets
+- 主要关键词：electric truck PTO, electric truck body builder
+
+### 25. 262 / 310 / 400 / 600 kWh 电池选择
+
+- [ ] 状态：待发布
+- 英文标题方向：How to Choose Electric Truck Battery Capacity: 262 to 600 kWh
+- 主要关键词：electric truck battery capacity, 600 kWh truck battery
+
+### 26. GB/T 与 CCS2 充电接口采购检查
+
+- [ ] 状态：待发布
+- 英文标题方向：GB/T vs CCS2 for Electric Truck Imports: What Fleet Buyers Must Confirm
+- 主要关键词：GB/T vs CCS2 electric truck, electric truck charging connector
+
+### 27. 高温地区电动重卡运营
+
+- [ ] 状态：待发布
+- 英文标题方向：Operating Heavy Electric Trucks in Hot Climates: Cooling and Charging Planning
+- 主要关键词：electric truck hot climate, battery thermal management
+
+### 28. 出口前验车和文件检查
+
+- [ ] 状态：待发布
+- 英文标题方向：Electric Truck Pre-Shipment Inspection Checklist for International Buyers
+- 主要关键词：electric truck inspection, truck pre-shipment inspection
+
+### 29. 备件和售后准备
+
+- [ ] 状态：待发布
+- 英文标题方向：Electric Truck Spare Parts Planning for Overseas Fleets
+- 主要关键词：electric truck spare parts, electric truck after-sales
+
+### 30. 首批车队试运营计划
+
+- [ ] 状态：待发布
+- 英文标题方向：How to Launch an Electric Truck Pilot Fleet: Route, Charger and Driver Plan
+- 主要关键词：electric truck pilot fleet, fleet electrification plan
 
 ## 单篇文章质量标准
 

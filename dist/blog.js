@@ -1,5 +1,16 @@
 const articles = [
   {
+    id: '600-kwh-electric-tractor-charging-plan',
+    url: 'blog/600-kwh-electric-tractor-charging-plan.html',
+    category: 'tco',
+    label: 'TCO & CHARGING',
+    date: 'September 21, 2026',
+    time: '11 min read',
+    title: 'How to Plan Charging for a 600 kWh Electric Tractor Fleet',
+    excerpt: 'A route-first guide to depot power, SOC windows, dual-gun charging, shift timing and operating reserve for 600 kWh electric tractors.',
+    image: 'assets/articles/dfh4250-te8p-6x4-electric-tractor-side.jpg'
+  },
+  {
     id: 'electric-tractor-selection',
     category: 'model-guide',
     label: 'MODEL GUIDE',
@@ -49,7 +60,7 @@ const emptyState = document.querySelector('#emptyState');
 const resultCount = document.querySelector('#resultCount');
 
 function articleUrl(article) {
-  return `article.html?id=${article.id}`;
+  return article.url || `article.html?id=${article.id}`;
 }
 
 function matchesArticle(article, query) {

@@ -28,7 +28,10 @@
 
 ### 1. 600 kWh 电动牵引车充电规划
 
-- [ ] 状态：待发布
+- [x] 状态：已发布
+- 发布日期：2026-09-21
+- 正式网址：https://dongfeng-evtruck.com/blog/600-kwh-electric-tractor-charging-plan.html
+- Git commit：见本次发布提交
 - 英文标题方向：How to Plan Charging for a 600 kWh Electric Tractor Fleet
 - 主要关键词：600 kWh electric tractor charging, electric truck depot charging
 - 内容重点：日里程、SOC 窗口、双枪直流充电、班次安排、配电条件、温度和备用余量。

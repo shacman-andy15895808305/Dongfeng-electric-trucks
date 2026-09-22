@@ -1,5 +1,38 @@
 const articles = [
   {
+    id: 'right-hand-drive-dongfeng-electric-trucks-export-guide',
+    url: 'blog/right-hand-drive-dongfeng-electric-trucks-export-guide.html',
+    category: 'model-guide',
+    label: 'EXPORT GUIDE',
+    date: 'September 22, 2026',
+    time: '10 min read',
+    title: 'Right-Hand-Drive Dongfeng Electric Trucks: Models and Export Checks',
+    excerpt: 'Catalogue-listed RHD tractors and dump trucks, plus charging, body, documentation and destination-market checks before production.',
+    image: 'assets/catalog/tractor-heavy.jpg'
+  },
+  {
+    id: 'dongfeng-kt5m-kt5j-electric-cargo-truck-guide',
+    url: 'blog/dongfeng-kt5m-kt5j-electric-cargo-truck-guide.html',
+    category: 'model-guide',
+    label: 'MODEL GUIDE',
+    date: 'September 22, 2026',
+    time: '10 min read',
+    title: 'Dongfeng KT5M and KT5J Electric Cargo Trucks for Box, Reefer and Urban Delivery',
+    excerpt: 'Match the 18 t chassis, wheelbase, battery and body length to delivery density, auxiliary demand and depot charging.',
+    image: 'assets/catalog/cargo-kt5.jpg'
+  },
+  {
+    id: '6x4-vs-8x4-electric-dump-trucks',
+    url: 'blog/6x4-vs-8x4-electric-dump-trucks.html',
+    category: 'application',
+    label: 'APPLICATION',
+    date: 'September 22, 2026',
+    time: '10 min read',
+    title: '6x4 vs 8x4 Electric Dump Trucks for Mining and Construction',
+    excerpt: 'Compare axle layout, reference GVW, turning space, body integration, traction, battery and charging against the actual haul cycle.',
+    image: 'assets/catalog/dump-standard.jpg'
+  },
+  {
     id: '600-kwh-electric-tractor-charging-plan',
     url: 'blog/600-kwh-electric-tractor-charging-plan.html',
     category: 'tco',

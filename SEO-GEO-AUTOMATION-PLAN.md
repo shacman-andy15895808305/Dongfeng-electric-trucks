@@ -9,10 +9,10 @@
 
 ## 固定执行节奏
 
-- 第一阶段（前 30 篇）：每天 09:00 发布一篇高质量文章，约 30 天完成。
+- 第一阶段（前 30 篇）：每天 09:00 最多发布三篇高质量、搜索意图不同的文章。
 - 每周一发布前先读取 GSC，检查排名、点击、展示、CTR、Sitemap 和页面收录，并执行证据明确的技术优化。
-- 第一阶段完成后：自动降为每周一、周三、周五各发布一篇，并由 GSC 数据调整选题。
-- 每次最多发布一篇。资料不足时停止该主题并明确列出缺少的配置或图片，不用猜测填充。
+- 第一阶段完成后：继续每天最多发布三篇，并由 GSC 数据和内容缺口调整选题。
+- 资料不足时只发布能够完成事实核验的文章，并明确列出缺少的配置或图片，不用猜测填充。
 - 速度不能降低质量：不批量复制模板段落，不制造多个搜索意图相同的页面，不发布无法核验的车型参数。
 
 ## 发布前基础优化
@@ -39,28 +39,39 @@
 
 ### 2. Dongfeng TE 系列选型指南
 
-- [ ] 状态：待发布
+- [x] 状态：已有内容覆盖，避免重复页面
+- 覆盖网址：https://dongfeng-evtruck.com/article.html?id=electric-tractor-selection
+- 核查日期：2026-09-22
 - 英文标题方向：Dongfeng TE Electric Tractor Selection Guide: 42 t to 120 t GCW
 - 主要关键词：Dongfeng electric tractor, TE8P, TE8L, electric tractor selection
 - 内容重点：42 t、49 t、80 t、120 t 级别如何根据载荷、路线、坡度和充电窗口选择。
 
 ### 3. 6x4 与 8x4 电动自卸车选择
 
-- [ ] 状态：待发布
+- [x] 状态：已发布
+- 发布日期：2026-09-22
+- 正式网址：https://dongfeng-evtruck.com/blog/6x4-vs-8x4-electric-dump-trucks.html
+- Git commit：见本次发布提交
 - 英文标题方向：6x4 vs 8x4 Electric Dump Trucks for Mining and Construction
 - 主要关键词：electric dump truck, electric mining truck, 6x4 vs 8x4 dump truck
 - 内容重点：场地道路、转弯空间、载荷、坡度、车架、车桥、电池和补能方式。
 
 ### 4. KT5M / KT5J 城市物流和车身选型
 
-- [ ] 状态：待发布
+- [x] 状态：已发布
+- 发布日期：2026-09-22
+- 正式网址：https://dongfeng-evtruck.com/blog/dongfeng-kt5m-kt5j-electric-cargo-truck-guide.html
+- Git commit：见本次发布提交
 - 英文标题方向：Dongfeng KT5M and KT5J Electric Cargo Trucks for Box, Reefer and Urban Delivery
 - 主要关键词：Dongfeng electric cargo truck, electric box truck, refrigerated electric truck
 - 内容重点：轴距、车厢、冷藏辅助用电、日里程、装卸频率和回场充电。
 
 ### 5. 右舵电动卡车出口指南
 
-- [ ] 状态：待发布
+- [x] 状态：已发布
+- 发布日期：2026-09-22
+- 正式网址：https://dongfeng-evtruck.com/blog/right-hand-drive-dongfeng-electric-trucks-export-guide.html
+- Git commit：见本次发布提交
 - 英文标题方向：Right-Hand-Drive Dongfeng Electric Trucks: Models and Export Checks
 - 主要关键词：RHD electric truck, right hand drive electric tractor, electric truck export
 - 内容重点：只列出现有目录确认的右舵型号，并说明目的国法规、充电接口和最终合规确认要求。

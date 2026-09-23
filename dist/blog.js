@@ -1,4 +1,7 @@
 const articles = [
+  { id:'catl-lfp-heavy-electric-truck-battery-guide',url:'blog/catl-lfp-heavy-electric-truck-battery-guide.html',category:'tco',label:'BATTERY GUIDE',date:'September 23, 2026',time:'9 min read',title:'CATL LFP Batteries in Heavy Electric Trucks: Capacity, Thermal Management and Fleet Planning',excerpt:'Understand capacity, temperature control, SOC policy and route-led battery planning without unsupported life or range claims.',image:'assets/catalog/tractor-heavy.jpg' },
+  { id:'china-electric-truck-export-checklist',url:'blog/china-electric-truck-export-checklist.html',category:'application',label:'EXPORT GUIDE',date:'September 23, 2026',time:'9 min read',title:'China Electric Truck Export Checklist: Route, Payload, Charging and Compliance',excerpt:'Freeze the vehicle, route, charging, compliance, shipping, documents and support plan before production.',image:'assets/catalog/cargo-kt5.jpg' },
+  { id:'electric-truck-tco-calculator-guide',url:'blog/electric-truck-tco-calculator-guide.html',category:'tco',label:'TCO & CHARGING',date:'September 23, 2026',time:'9 min read',title:'Electric Truck TCO Calculator: Energy, Charging, Maintenance and Utilization',excerpt:'A transparent variable-based method for comparing lifecycle cost without invented savings claims.',image:'assets/catalog/tractor-heavy.jpg' },
   {
     id: 'right-hand-drive-dongfeng-electric-trucks-export-guide',
     url: 'blog/right-hand-drive-dongfeng-electric-trucks-export-guide.html',

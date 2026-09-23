@@ -78,21 +78,30 @@
 
 ### 6. 电动重卡 TCO 计算方法
 
-- [ ] 状态：待发布
+- [x] 状态：已发布
+- 发布日期：2026-09-23
+- 正式网址：https://dongfeng-evtruck.com/blog/electric-truck-tco-calculator-guide.html
+- Git commit：见本次发布提交
 - 英文标题方向：Electric Truck TCO Calculator: Energy, Charging, Maintenance and Utilization
 - 主要关键词：electric truck TCO, electric truck operating cost
 - 内容重点：提供可替换变量和公式，不使用虚构客户数据；示例数字必须明确标为演示假设。
 
 ### 7. 中国电动卡车出口采购清单
 
-- [ ] 状态：待发布
+- [x] 状态：已发布
+- 发布日期：2026-09-23
+- 正式网址：https://dongfeng-evtruck.com/blog/china-electric-truck-export-checklist.html
+- Git commit：见本次发布提交
 - 英文标题方向：China Electric Truck Export Checklist: Route, Payload, Charging and Compliance
 - 主要关键词：China electric truck exporter, electric truck buying guide
 - 内容重点：国家、用途、载荷、日里程、坡度、气候、车身、充电标准、运输和备件。
 
 ### 8. CATL LFP 电池与热管理基础
 
-- [ ] 状态：待发布
+- [x] 状态：已发布
+- 发布日期：2026-09-23
+- 正式网址：https://dongfeng-evtruck.com/blog/catl-lfp-heavy-electric-truck-battery-guide.html
+- Git commit：见本次发布提交
 - 英文标题方向：CATL LFP Batteries in Heavy Electric Trucks: Capacity, Thermal Management and Fleet Planning
 - 主要关键词：CATL LFP electric truck battery, electric truck thermal management
 - 内容重点：根据可靠来源说明 LFP、电池容量、温度、SOC 管理和车队运营，不填写无法证明的循环寿命或质保承诺。

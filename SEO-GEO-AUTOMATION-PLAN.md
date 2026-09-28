@@ -108,7 +108,10 @@
 
 ### 9. TE46 4x2 港口短倒牵引车
 
-- [ ] 状态：待发布
+- [x] 状态：已发布
+- 发布日期：2026-09-28
+- 正式网址：https://dongfeng-evtruck.com/blog/dongfeng-te46-4x2-electric-tractor-port-short-haul.html
+- Git commit：见本次发布提交
 - 英文标题方向：Dongfeng TE46 4x2 Electric Tractor for Port and Short-Haul Operations
 - 主要关键词：TE46 electric tractor, port electric tractor, 4x2 electric truck
 

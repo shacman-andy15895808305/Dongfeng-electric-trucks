@@ -1,4 +1,9 @@
 const articles = [
+  { id:'dongfeng-te8l-te8k-6x4-electric-tractor-regional-haulage',url:'blog/dongfeng-te8l-te8k-6x4-electric-tractor-regional-haulage.html',category:'model-guide',label:'MODEL GUIDE',date:'September 29, 2026',time:'9 min read',title:'Dongfeng TE8L and TE8K 6x4 Electric Tractors for Regional Haulage',excerpt:'Compare the 49 t catalogue class, battery options and charging around a real regional duty cycle.',image:'assets/catalog/tractor-heavy.jpg' },
+  { id:'dongfeng-te9l-te9b-electric-tractor-comparison',url:'blog/dongfeng-te9l-te9b-electric-tractor-comparison.html',category:'model-guide',label:'MODEL COMPARISON',date:'September 29, 2026',time:'9 min read',title:'Dongfeng TE9L vs TE9B Electric Tractor: 49 t and 65 t Selection',excerpt:'Understand the GCW distinction and verify the full tractor-trailer, battery and route specification.',image:'assets/catalog/tractor-heavy.jpg' },
+  { id:'dongfeng-kta1-8x4-electric-dump-truck-urban-construction',url:'blog/dongfeng-kta1-8x4-electric-dump-truck-urban-construction.html',category:'application',label:'APPLICATION GUIDE',date:'September 29, 2026',time:'9 min read',title:'Dongfeng KTA1 8x4 Electric Dump Truck for Urban Construction',excerpt:'Assess the 31 t GVW catalogue configuration through body integration, city access, haul cycle and charging.',image:'assets/catalog/dump-standard.jpg' },
+  { id:'electric-truck-battery-capacity-selection',url:'blog/electric-truck-battery-capacity-selection.html',category:'tco',label:'BATTERY PLANNING',date:'September 29, 2026',time:'9 min read',title:'How to Choose Electric Truck Battery Capacity: 166 to 600 kWh',excerpt:'Compare catalogue-listed pack options and size capacity from measured shift energy, reserve and charging access.',image:'assets/catalog/tractor-heavy.jpg' },
+  { id:'electric-truck-charging-connector-compatibility-checklist',url:'blog/electric-truck-charging-connector-compatibility-checklist.html',category:'tco',label:'CHARGING GUIDE',date:'September 29, 2026',time:'9 min read',title:'Electric Truck Charging Connector Compatibility: Buyer Checklist',excerpt:'Verify the exact vehicle inlet, charger, communications, site supply and acceptance test before ordering.',image:'assets/catalog/tractor-heavy.jpg' },
   { id:'dongfeng-te46-4x2-electric-tractor-port-short-haul',url:'blog/dongfeng-te46-4x2-electric-tractor-port-short-haul.html',category:'model-guide',label:'MODEL GUIDE',date:'September 28, 2026',time:'9 min read',title:'Dongfeng TE46 4x2 Electric Tractor for Port and Short-Haul Routes',excerpt:'Review verified catalogue data and assess port shuttle work through route, GCW, charging and site requirements.',image:'assets/catalog/tractor-4x2.jpg' },
   { id:'catl-lfp-heavy-electric-truck-battery-guide',url:'blog/catl-lfp-heavy-electric-truck-battery-guide.html',category:'tco',label:'BATTERY GUIDE',date:'September 23, 2026',time:'9 min read',title:'CATL LFP Batteries in Heavy Electric Trucks: Capacity, Thermal Management and Fleet Planning',excerpt:'Understand capacity, temperature control, SOC policy and route-led battery planning without unsupported life or range claims.',image:'assets/catalog/tractor-heavy.jpg' },
   { id:'china-electric-truck-export-checklist',url:'blog/china-electric-truck-export-checklist.html',category:'application',label:'EXPORT GUIDE',date:'September 23, 2026',time:'9 min read',title:'China Electric Truck Export Checklist: Route, Payload, Charging and Compliance',excerpt:'Freeze the vehicle, route, charging, compliance, shipping, documents and support plan before production.',image:'assets/catalog/cargo-kt5.jpg' },
@@ -130,6 +135,7 @@ function renderFeatured(article) {
 }
 
 function render() {
+  if (!grid || !featured || !search || !emptyState || !resultCount) return;
   const query = search.value.toLowerCase().trim();
   const results = articles.filter(article => matchesArticle(article, query));
   const featuredArticle = articles.find(article => article.id === featuredId);
@@ -153,7 +159,7 @@ document.querySelectorAll('.filters button').forEach(button => {
   });
 });
 
-search.addEventListener('input', render);
+search?.addEventListener('input', render);
 
 document.querySelector('.menu')?.addEventListener('click', event => {
   document.querySelector('.topbar').classList.toggle('open');

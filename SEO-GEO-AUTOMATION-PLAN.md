@@ -117,19 +117,28 @@
 
 ### 10. TE8L / TE8K 6x4 区域运输
 
-- [ ] 状态：待发布
+- [x] 状态：已发布
+- 发布日期：2026-09-29
+- 正式网址：https://dongfeng-evtruck.com/blog/dongfeng-te8l-te8k-6x4-electric-tractor-regional-haulage.html
+- Git commit：见本次发布提交
 - 英文标题方向：Dongfeng TE8L and TE8K 6x4 Electric Tractors for Regional Haulage
 - 主要关键词：TE8L electric tractor, TE8K electric truck, 6x4 electric tractor
 
 ### 11. TE9L / TE9B 重载区域运输
 
-- [ ] 状态：待发布
+- [x] 状态：已发布
+- 发布日期：2026-09-29
+- 正式网址：https://dongfeng-evtruck.com/blog/dongfeng-te9l-te9b-electric-tractor-comparison.html
+- Git commit：见本次发布提交
 - 英文标题方向：Dongfeng TE9L and TE9B Electric Tractors: Battery and Duty-Cycle Selection
 - 主要关键词：TE9L electric tractor, TE9B electric truck
 
 ### 12. KTA1 8x4 城市建设自卸车
 
-- [ ] 状态：待发布
+- [x] 状态：已发布
+- 发布日期：2026-09-29
+- 正式网址：https://dongfeng-evtruck.com/blog/dongfeng-kta1-8x4-electric-dump-truck-urban-construction.html
+- Git commit：见本次发布提交
 - 英文标题方向：Dongfeng KTA1 8x4 Electric Dump Truck for Urban Construction
 - 主要关键词：KTA1 electric dump truck, 8x4 electric tipper
 
@@ -207,15 +216,21 @@
 
 ### 25. 262 / 310 / 400 / 600 kWh 电池选择
 
-- [ ] 状态：待发布
+- [x] 状态：已发布
+- 发布日期：2026-09-29
+- 正式网址：https://dongfeng-evtruck.com/blog/electric-truck-battery-capacity-selection.html
+- Git commit：见本次发布提交
 - 英文标题方向：How to Choose Electric Truck Battery Capacity: 262 to 600 kWh
 - 主要关键词：electric truck battery capacity, 600 kWh truck battery
 
-### 26. GB/T 与 CCS2 充电接口采购检查
+### 26. 电动卡车充电接口兼容性采购检查
 
-- [ ] 状态：待发布
-- 英文标题方向：GB/T vs CCS2 for Electric Truck Imports: What Fleet Buyers Must Confirm
-- 主要关键词：GB/T vs CCS2 electric truck, electric truck charging connector
+- [x] 状态：已发布
+- 发布日期：2026-09-29
+- 正式网址：https://dongfeng-evtruck.com/blog/electric-truck-charging-connector-compatibility-checklist.html
+- Git commit：见本次发布提交
+- 英文标题方向：Electric Truck Charging Connector Compatibility: Buyer Checklist
+- 主要关键词：electric truck charging connector, electric truck charger compatibility
 
 ### 27. 高温地区电动重卡运营
 

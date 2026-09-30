@@ -144,21 +144,33 @@
 
 ### 13. TZ3Z 55 t 工程自卸车
 
-- [ ] 状态：待发布
-- 英文标题方向：Dongfeng TZ3Z Electric Dump Truck for Quarry and Construction Haulage
+- [x] 状态：已发布
+- 发布日期：2026-09-30
+- 正式网址：https://dongfeng-evtruck.com/blog/dongfeng-tz3z-8x4-electric-dump-truck-quarry-haulage.html
+- Git commit：见本次发布提交
+- 英文标题：Dongfeng TZ3Z 8x4 Electric Dump Truck for Quarry Haulage
 - 主要关键词：TZ3Z electric dump truck, electric quarry truck
+- 内容重点：核实55 t GVW与400 kWh目录配置，规划矿区路线、上装、充电和现场运营；未将GVW当作载荷。
 
 ### 14. TZ5E 6x4 中型工程自卸车
 
-- [ ] 状态：待发布
-- 英文标题方向：Dongfeng TZ5E 6x4 Electric Dump Truck: Suitable Routes and Site Conditions
+- [x] 状态：已发布
+- 发布日期：2026-09-30
+- 正式网址：https://dongfeng-evtruck.com/blog/dongfeng-tz5e-6x4-electric-dump-truck-site-guide.html
+- Git commit：见本次发布提交
+- 英文标题：Dongfeng TZ5E 6x4 Electric Dump Truck: Site and Route Guide
 - 主要关键词：TZ5E electric dump truck, 6x4 electric tipper
+- 内容重点：65 t GVW与400 kWh配置、工地路线及6x4适配评估、车身和充电准备；不承诺续航或载荷。
 
 ### 15. TZ4Y / TZ5Y 右舵自卸车
 
-- [ ] 状态：待发布
-- 英文标题方向：Dongfeng TZ4Y and TZ5Y Right-Hand-Drive Electric Dump Trucks
+- [x] 状态：已发布
+- 发布日期：2026-09-30
+- 正式网址：https://dongfeng-evtruck.com/blog/dongfeng-tz4y-tz5y-rhd-electric-dump-truck-comparison.html
+- Git commit：见本次发布提交
+- 英文标题：Dongfeng TZ4Y vs TZ5Y RHD Electric Dump Trucks
 - 主要关键词：RHD electric dump truck, TZ5Y electric truck
+- 内容重点：对比55 t/80 t GVW、动力、轴距、车桥/轮胎和接口条目，强调右舵不等于目的国认证。
 
 ### 16. KTH1 / KTH2 / KTH3 重型载货底盘
 

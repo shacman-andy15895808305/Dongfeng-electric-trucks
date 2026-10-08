@@ -174,33 +174,53 @@
 
 ### 16. KTH1 / KTH2 / KTH3 重型载货底盘
 
-- [ ] 状态：待发布
-- 英文标题方向：Dongfeng KTH Electric Cargo Truck Guide: KTH1, KTH2 and KTH3
+- [x] 状态：已发布
+- 发布日期：2026-10-08
+- 正式网址：https://dongfeng-evtruck.com/blog/dongfeng-kth-electric-cargo-chassis-guide.html
+- Git commit：见本次发布提交
+- 英文标题：Dongfeng KTH Electric Cargo Chassis Guide: KTH1, KTH2 and KTH3
 - 主要关键词：KTH electric cargo truck, 8x4 electric cargo chassis
+- 内容重点：逐项区分KTH1明细与KTH2/KTH3系列级数据，明确未提供的型号级配置需供应商确认。
 
 ### 17. KT3F / KT7A 电动洒水和抑尘车
 
-- [ ] 状态：待发布
-- 英文标题方向：Dongfeng Electric Water and Dust-Suppression Trucks for Municipal Fleets
+- [x] 状态：已发布
+- 发布日期：2026-10-08
+- 正式网址：https://dongfeng-evtruck.com/blog/dongfeng-electric-sprinkler-truck-kt3f-kt7a-guide.html
+- Git commit：见本次发布提交
+- 英文标题：Dongfeng Electric Sprinkler Trucks: KT3F 4x2 and KT7A 6x4
 - 主要关键词：electric water truck, electric sprinkler truck
+- 内容重点：4x2/6x4市政路线和上装选型；目录中6 t/10 t字段标签含义不清，未当作水罐容量。
 
 ### 18. KT1D 电动洗扫车
 
-- [ ] 状态：待发布
-- 英文标题方向：Dongfeng KT1D Electric Sweeper Truck for Urban Road Cleaning
+- [x] 状态：已发布
+- 发布日期：2026-10-08
+- 正式网址：https://dongfeng-evtruck.com/blog/dongfeng-kt1d-electric-sweeper-truck-guide.html
+- Git commit：见本次发布提交
+- 英文标题：Dongfeng KT1D Electric Sweeper Truck for Urban Road Cleaning
 - 主要关键词：electric sweeper truck, KT1D
+- 内容重点：车型配置、道路清扫路线与车身集成；清扫宽度、料箱容量和效率均留待上装方确认。
 
 ### 19. KT3E / TZ2E 电动垃圾车
 
-- [ ] 状态：待发布
-- 英文标题方向：Dongfeng Electric Refuse Trucks for Collection and Transfer Operations
+- [x] 状态：已发布
+- 发布日期：2026-10-08
+- 正式网址：https://dongfeng-evtruck.com/blog/dongfeng-electric-refuse-truck-kt3e-tz2e-comparison.html
+- Git commit：见本次发布提交
+- 英文标题：Dongfeng KT3E vs TZ2E Electric Refuse Truck Chassis
 - 主要关键词：electric garbage truck, electric refuse truck
+- 内容重点：比较4x2/8x4底盘类别与收运路线，并说明目录未给上装容积、压缩比或载荷。
 
 ### 20. TZ8J / KT9X 电动搅拌车
 
-- [ ] 状态：待发布
-- 英文标题方向：Dongfeng Electric Concrete Mixer Trucks: TZ8J and KT9X Selection Guide
+- [x] 状态：已发布
+- 发布日期：2026-10-08
+- 正式网址：https://dongfeng-evtruck.com/blog/dongfeng-electric-concrete-mixer-tz8j-kt9x-comparison.html
+- Git commit：见本次发布提交
+- 英文标题：Dongfeng TZ8J vs KT9X Electric Concrete Mixer Trucks
 - 主要关键词：electric concrete mixer truck, KT9X, TZ8J
+- 内容重点：核验底盘目录配置并围绕搅拌筒上装、搅拌站至工地工况展开；KT9X合规信息要求按实际车型文件核实。
 
 ### 21. 港口短倒电动化工况规划
 

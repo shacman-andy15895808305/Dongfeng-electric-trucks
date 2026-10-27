@@ -288,6 +288,27 @@
 - 英文标题方向：How to Launch an Electric Truck Pilot Fleet: Route, Charger and Driver Plan
 - 主要关键词：electric truck pilot fleet, fleet electrification plan
 
+## Pakistan TE9Y 用户指定专题（2026-10-27）
+
+### Dongfeng TE9Y 120 t Electric Tractor for Pakistan
+
+- [x] 状态：已发布
+- 发布日期：2026-10-27
+- 正式网址：https://dongfeng-evtruck.com/blog/dongfeng-te9y-120t-electric-tractor-pakistan.html
+- Git commit：见本次发布提交
+- 主要关键词：Dongfeng TE9Y Pakistan, 120 t electric tractor, TE9Y 600.92 kWh
+- 资料来源：用户提供的 TE9Y 6X4 120t Electric Tractor 配置表及其中嵌入的实车照片。
+- 数据边界：只引用可辨识的英文配置；对 GCW、双枪 600 A、车桥额定值基础及目的地市场审批均提示按最终车型文件和当地要求书面核验，不承诺续航或充电时间。
+
+### Planning a 120 t Electric Tractor Project in Pakistan
+
+- [x] 状态：已发布
+- 发布日期：2026-10-27
+- 正式网址：https://dongfeng-evtruck.com/blog/pakistan-te9y-electric-tractor-route-charging-plan.html
+- Git commit：见本次发布提交
+- 主要关键词：electric tractor Pakistan route planning, TE9Y charging plan, 600 A electric truck charging
+- 内容重点：路线实测、能耗与预留、充电窗口、场站电力、120 t 组合路线核验及小规模试运营；不虚构巴基斯坦法规、路线许可或当地充电设施状况。
+
 ## 单篇文章质量标准
 
 - 正文以英文为主，通常 1,200–1,800 词；以完整回答采购问题为准，不机械凑字数。

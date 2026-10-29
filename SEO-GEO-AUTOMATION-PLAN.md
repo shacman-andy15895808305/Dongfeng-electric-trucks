@@ -224,21 +224,36 @@
 
 ### 21. 港口短倒电动化工况规划
 
-- [ ] 状态：待发布
+- [x] 状态：已发布
+- 发布日期：2026-10-29
+- 正式网址：https://dongfeng-evtruck.com/blog/port-electric-truck-duty-cycle-planning.html
+- Git commit：见本次发布提交
 - 英文标题方向：How to Plan an Electric Truck Duty Cycle for Port Container Haulage
 - 主要关键词：port electric truck, electric terminal tractor duty cycle
+- 资料来源：项目 TE46/TE4Z 车型目录；U.S. DOE Alternative Fuels Data Center fleet planning；Port of Los Angeles truck-access page（仅作地方规则示例）。
+- 数据边界：区分道路集装箱短驳与场内 terminal tractor；不推断具体港口准入、续航或每班箱量。
 
 ### 22. 矿区电动卡车能源规划
 
-- [ ] 状态：待发布
+- [x] 状态：已发布
+- 发布日期：2026-10-29
+- 正式网址：https://dongfeng-evtruck.com/blog/mine-site-electric-truck-energy-planning.html
+- Git commit：见本次发布提交
 - 英文标题方向：Mine-Site Electric Truck Energy Planning: Grade, Payload and Charging Windows
 - 主要关键词：electric mining truck energy consumption, mine charging
+- 资料来源：项目 TZ3Z 车型目录；U.S. DOE Alternative Fuels Data Center fleet planning。
+- 数据边界：使用目录中55 t GVW、400 kWh 配置作参考；不将GVW当载荷，不编造矿区能耗、续航和班产量。
 
 ### 23. 冷链车辅助用电和续航规划
 
-- [ ] 状态：待发布
+- [x] 状态：已发布
+- 发布日期：2026-10-29
+- 正式网址：https://dongfeng-evtruck.com/blog/electric-refrigerated-truck-range-planning.html
+- Git commit：见本次发布提交
 - 英文标题方向：Electric Refrigerated Truck Range Planning: Traction and Auxiliary Loads
 - 主要关键词：electric refrigerated truck, reefer electric truck range
+- 资料来源：项目 KT5M/KT5J 车型目录；U.S. DOE Alternative Fuels Data Center fleet planning。
+- 数据边界：目录配置仅对应底盘；冷机型号、供电路径、能耗、温控表现和整车续航需按上装订单和实测核验。
 
 ### 24. 上装和电动 PTO 选型
 
